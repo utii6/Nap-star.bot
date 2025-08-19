@@ -1,18 +1,0 @@
-{
-  "BOT_TOKEN": "6663550850:AAGGxmXCBQcmsqowNNRh8hIJLooWSutrguc",
-  "ADMIN_ID": "5581457665",
-  "CHANNEL_USERNAME": "@qd3qd",
-  "CHANNEL_LINK": "https://t.me/qd3qd",
-  "KD1S_API_KEY": "‏fd226cc94ad4730494305d2ec2364778",
-  "BASE_URL": "https://nap-star-bot.onrender.com",
-  "REF_POINTS": 150,
-  "POINTS_PER_USD": 1000,
-  "SERVICE_MARKUP": 0.0,
-  "SERVICES": {
-    "13021": { "name": "مشاهدات تيك توك رخيصه 😎", "usd_per_1000": null },
-    "13400": { "name": "مشاهدات انستا رخيصه 🅰️", "usd_per_1000": null },
-    "14527": { "name": "مشاهدات تلي ✅",          "usd_per_1000": null },
-    "15007": { "name": "لايكات تيك توك 💎",       "usd_per_1000": null },
-    "14676": { "name": "لايكات انستا سريعة 😎👍",  "usd_per_1000": null }
-  }
-}
